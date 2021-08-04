@@ -1,0 +1,13 @@
+Random forest classifier.
+XGBoost : Gradient boosted decision trees.
+LightGBM for distributed and faster training.
+CatBoost to handle categorical data.
+Naive bayes classifier.
+Gaussian naive bayes model.
+LGBM + CNN  model used in 3rd place solution of Santander Customer Transaction Prediction
+Knowledge distillation in Neural Network.
+Follow the regularized leader method.
+Comparison between LGB boosting methods (goss, gbdt and dart).
+NN + focal loss experiment.
+Keras NN with timeseries splitter.
+5th place NN architecture with code for Santander Transaction prediction.

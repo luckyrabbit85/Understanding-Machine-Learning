@@ -1,0 +1,6 @@
+Six ways to do features selection using sklearn.
+Permutation feature importance.
+Adversarial feature validation.
+Feature selection using null importances.
+Tree explainer using SHAP.
+DeepNN explainer using SHAP.

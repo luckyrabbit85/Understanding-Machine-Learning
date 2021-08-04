@@ -1,0 +1,5 @@
+LGBM hyperparameter tuning methods.
+Automated model tuning methods.
+Parameter tuning with hyper plot.
+Bayesian optimization for hyperparameter tuning.
+Gpyopt Hyperparameter Optimisation.

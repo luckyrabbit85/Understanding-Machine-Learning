@@ -1,0 +1,20 @@
+Target encoding cross validation for better encoding.
+Entity embedding to handle categories. 
+Encoding cyclic features for deep learning.
+Manual feature engineering methods.
+Automated feature engineering techniques using featuretools.
+Top hard crafted features used in microsoft malware detection.
+Denoising NN for feature extraction.
+Feature engineering using RAPIDS framework.
+Things to remember while processing features using LGBM.
+Lag features and moving averages.
+Principal component analysis for dimensionality reduction.
+LDA for dimensionality reduction.
+Best hand crafted LGBM features for microsoft malware detection.
+Generating frequency features.
+Dropping variables with different train and test distribution.
+Aggregate time series features for home credit competition.
+Time Series features used in home credit default risk.
+Scale, Standardize and normalize with sklearn.
+Handcrafted features for Home default risk competition.
+Handcrafted  features used in Santander Transaction Prediction.

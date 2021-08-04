@@ -1,0 +1,10 @@
+Methods to tackle class imbalance.
+Data augmentation by Synthetic Minority Oversampling Technique.
+Fast inplace shuffle for augmentation.
+Finding synthetic samples in the dataset.
+Signal denoising used in signal processing competitions.
+Finding patterns of missing data.
+Methods to handle missing data.
+An overview of various encoding techniques for categorical data.
+Building model to predict missing values.
+Random shuffling of data to create new synthetic training set.
