@@ -18,3 +18,8 @@ Time Series features used in home credit default risk.
 Scale, Standardize and normalize with sklearn.
 Handcrafted features for Home default risk competition.
 Handcrafted  features used in Santander Transaction Prediction.
+
+
+Topics:
+Feature Scaling
+Standardizationa and Normalization.
